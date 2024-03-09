@@ -1,0 +1,45 @@
+Müþteri 1 masaya oturdu: 1
+Müþteri 2 masaya oturdu: 2
+Müþteri 3 masaya oturdu: 3
+Masa 2'deki Müþteri 2'nin sipariþini Garson_3 alýnýyor.
+Masa 1'deki Müþteri 1'nin sipariþini Garson_1 alýnýyor.
+Masa 3'deki Müþteri 3'nin sipariþini Garson_2 alýnýyor.
+Müþteri 4 masaya oturdu: 4
+Müþteri 5 masaya oturdu: 5
+Masa 2'deki Müþteri 2'nin sipariþini Garson_3 aldý.
+Masa 3'deki Müþteri 3'nin sipariþini Garson_2 aldý.
+Masa 4'deki Müþteri 4'nin sipariþini Garson_3 alýnýyor.
+Masa 2'deki Müþteri 2'nin yemeðini Aþçý_2 hazýrlanýyor.
+Masa 5'deki Müþteri 5'nin sipariþini Garson_2 alýnýyor.
+Masa 1'deki Müþteri 1'nin sipariþini Garson_1 aldý.
+Masa 3'deki Müþteri 3'nin yemeðini Aþçý_1 hazýrlanýyor.
+Müþteri 6 masaya oturdu: 6
+Müþteri 1 masaya oturdu: 1
+Müþteri 2 masaya oturdu: 2
+Masa 1'deki Müþteri 1'nin sipariþini Garson_1 alýnýyor.
+Müþteri 3 masaya oturdu: 3
+Masa 2'deki Müþteri 2'nin sipariþini Garson_2 alýnýyor.
+Müþteri 4 masaya oturdu: 4
+Masa 3'deki Müþteri 3'nin sipariþini Garson_3 alýnýyor.
+Müþteri 5 masaya oturdu: 5
+Masa 1'deki Müþteri 1'nin sipariþini Garson_1 aldý.
+Masa 4'deki Müþteri 4'nin sipariþini Garson_1 alýnýyor.
+Masa 2'deki Müþteri 2'nin sipariþini Garson_2 aldý.
+Masa 1'deki Müþteri 1'nin yemeðini Aþçý_1 hazýrlanýyor.
+Masa 5'deki Müþteri 5'nin sipariþini Garson_2 alýnýyor.
+Masa 2'deki Müþteri 2'nin yemeðini Aþçý_2 hazýrlanýyor.
+Müþteri 6 masaya oturdu: 6
+Masa 3'deki Müþteri 3'nin sipariþini Garson_3 aldý.
+Masa 6'deki Müþteri 6'nin sipariþini Garson_3 alýnýyor.
+Masa 4'deki Müþteri 4'nin sipariþini Garson_1 aldý.
+Masa 5'deki Müþteri 5'nin sipariþini Garson_2 aldý.
+Masa 1'deki Müþteri 1'nin yemeði hazýr.
+Masa 2'deki Müþteri 2'nin yemeði hazýr.
+Masa 6'deki Müþteri 6'nin sipariþini Garson_3 aldý.
+Masa 3'deki Müþteri 3'nin yemeðini Aþçý_1 hazýrlanýyor.
+Masa 1'deki Müþteri 1 yemek yiyor.
+Masa 2'deki Müþteri 2 yemek yiyor.
+Masa 4'deki Müþteri 4'nin yemeðini Aþçý_2 hazýrlanýyor.
+Masa 1'deki Müþteri 1 yemek yedi.
+Masa 1'deki Müþteri 1 Kasa_1'de
+Masa 2'deki Müþteri 2 yemek yedi.
